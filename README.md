@@ -1,5 +1,5 @@
 # Data-Science
-Data Science's Final Project
+Introduction to Data Science's Final Project
 
 Group members:
 1. Nguyễn Hoàng Sang - 22127361.
